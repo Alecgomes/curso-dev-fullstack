@@ -1,0 +1,12 @@
+body{
+    background: #dfdfdf;
+}
+P{
+    color: #222222; 
+}
+
+.foto{
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+}

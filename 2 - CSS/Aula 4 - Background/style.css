@@ -1,0 +1,12 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-position: center center;
+    background-size: cover;
+    /* background-size: cover; tela toda*/
+    background-attachment: fixed;
+}
+P{
+    color: #222222; 
+}
